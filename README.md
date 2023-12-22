@@ -1,1 +1,1 @@
-# quadratic-equation graphical visualiser
+quadratic equation graphical visualiser
